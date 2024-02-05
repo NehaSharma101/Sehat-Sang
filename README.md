@@ -1,8 +1,8 @@
 ## how to start
-Download the code 
-Run "npm install" to install all the dependencies
+Download the code.
+Run "npm install" to install all the dependencies.
 Run "npm start"
-##Deployment Link:
+## Deployment Link:
 -https://sehat-sang.firebaseapp.com/
 ## Tech used:
 HTML, CSS, React.Js, Firebase 
