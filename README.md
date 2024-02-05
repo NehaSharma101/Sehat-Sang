@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+## how to start
+Download the code 
+Run "npm install" to install all the dependencies
+Run "npm start"
+##Deployment Link:
+-https://sehat-sang.firebaseapp.com/
+## Tech used:
+HTML, CSS, React.Js, Firebase 
+## Introduction:
+Welcome to Sehat Sang, your holistic health and nutrition companion! At Sehat Sang, we believe that health is not just the absence of illness but a state of complete physical, mental, and social well-being. In a world where information overload is common, Sehat Sang stands out as a dedicated platform committed to spreading awareness about health, nutrition, and overall well-being.
+## Mission
+Sehat Sang is on a mission to bridge the gap in health education by providing accurate, accessible, and comprehensive information about nutrition, fitness, and the science behind a healthy lifestyle. We understand the importance of preventive healthcare and aim to empower individuals with the knowledge they need to make informed decisions about their well-being.
+## what sets us apart
+What makes Sehat Sang unique is our focus on education and awareness. We recognize the lack of dedicated platforms providing precise information and resources about health and nutrition. To address this gap, we offer a one-stop solution, bringing together nutritionists, experts, and individuals passionate about promoting a culture of well-being.
+## some images:
+![Screenshot (19)](https://github.com/NehaSharma101/Sehat-Sang/assets/85702915/1ff1bcc0-31a1-41f0-a858-89e6a94c8ba0)
+![Screenshot (20)](https://github.com/NehaSharma101/Sehat-Sang/assets/85702915/7cad6360-4704-4249-a13e-78fef10bcf1e)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (21)](https://github.com/NehaSharma101/Sehat-Sang/assets/85702915/51771a6d-69db-41f8-afa6-a72f177485b5)
+![Screenshot (22)](https://github.com/NehaSharma101/Sehat-Sang/assets/85702915/eb844d52-cae1-4b08-b3c6-af0aa473e2a8)
+![Screenshot (23)](https://github.com/NehaSharma101/Sehat-Sang/assets/85702915/ce658ce4-01c7-4158-92c6-21cfc3934434)
+![Screenshot (24)](https://github.com/NehaSharma101/Sehat-Sang/assets/85702915/f722ed99-1b5f-4926-8224-5e51276c3b3f)
+![Screenshot (25)](https://github.com/NehaSharma101/Sehat-Sang/assets/85702915/107b31dd-39b3-4142-92af-64f73cece87e)
+![Screenshot (26)](https://github.com/NehaSharma101/Sehat-Sang/assets/85702915/8e8f9ad2-77ab-4590-8942-12fc42bd89c5)
