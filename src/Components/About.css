@@ -1,0 +1,14 @@
+.about{
+    /* display: flex; */
+    padding: 30px;
+    
+    /* color: yellow; */
+
+}
+.about h3{
+    margin:10px;
+}
+.about span{
+    font-weight: 700;
+    font-style: Bold ;
+}
