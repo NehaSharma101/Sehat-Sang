@@ -8,6 +8,7 @@ import Footer from './Footer'
 import './Home.css'
 import Testimonial from './Testimonial'
 import Instructor from './Instructor'
+import NewBanner from './NewBanner'
 
 const Home = () => {
 
@@ -39,14 +40,15 @@ const Home = () => {
     return (
         <div style={{backgroundColor: '#000000'}}>
             <Navbar ></Navbar>
-            <Banner></Banner>
+            {/* <Banner></Banner> */}
+            <NewBanner></NewBanner>
             <div className="slider-head"><p>Limited Time Deals</p></div>
              <ProductSlider type={'Mobile'} /> *
             {/* <ProductSlider type={'Camera'} />
             <ProductSlider type={'Laptop'} />
             <ProductSlider type={'Shoes'} /> */}
             <Instructor></Instructor>
-            <Testimonial></Testimonial>
+            {/* <Testimonial></Testimonial> */}
             <Footer></Footer>
             {/* <Products /> */}
             {/* <p>{loggeduser ? loggeduser[0].email : "No data"}</p> */}

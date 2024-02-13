@@ -80,6 +80,8 @@ const Navbar = () => {
                         <Link to='/' ><button>Home</button></Link>
                         <Link to='/signup'><button>Register</button></Link>
                         <Link to='/login'><button>Login</button></ Link >
+                        <Link to='/ourtrainers'><button>Our Trainers</button></ Link >
+                        <Link to='/blogs' ><button>Blogs</button></Link>
                         <Link to='/about' ><button>About</button></Link>
                         <Link to='/contactus' ><button>Contact Us</button></Link>
                         <div className='cart-btn'>
@@ -95,6 +97,8 @@ const Navbar = () => {
 
                     {loggeduser && <nav>
                         <Link to='/' ><button>Home</button></Link>
+                        <Link to='/ourtrainers'><button>Our Trainers</button></ Link >
+                        <Link to='/blogs' ><button>Blogs</button></Link>
                         <Link to='/about' ><button>About</button></Link>
                         <Link to='/contactus' ><button>Contact Us</button></Link>
                         <Link to='/sellproduct'><button>Sell</button></Link>

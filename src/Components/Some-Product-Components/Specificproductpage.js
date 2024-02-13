@@ -70,7 +70,9 @@ const Specificproductpage = () => {
 
     // console.log(currentprod.price)
 
-
+    const redirectToLink = () => {
+        window.location.href = 'https://buy.stripe.com/test_dR68yKf432WF9Q4eUV'; 
+      };
 
 
     const addtocart = () => {
@@ -134,7 +136,7 @@ const Specificproductpage = () => {
                                 </div>
                             </div>
                             <div className='buy-cart'>
-                                <button className='btn'>Buy Now</button>
+                                <button className='btn' onClick={redirectToLink}>Buy Now</button>
                                 <button className='btn' onClick={addtocart}>Add to Cart</button>
                             </div>
                         </div>

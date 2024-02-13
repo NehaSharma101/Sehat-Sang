@@ -12,6 +12,7 @@
 } */
 .LeftContainer  {
     color: white;
+   
 }
 
 nav {
@@ -25,6 +26,7 @@ nav button {
     background-color: black;
     border: none;
     color: white;
+    /* color: black; */
     padding: 5px;
 }
 
@@ -100,7 +102,7 @@ nav button:hover {
     padding: 0px 5px;
     margin: 8px 15px;
     border: 2px solid #B4D4FF;
-    color: white;
+    color: grey;
     border-radius: 5px;
     font-size: 13px;
     font-weight: 700;

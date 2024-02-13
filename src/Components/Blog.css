@@ -1,0 +1,47 @@
+body {
+  background-color: #222;
+  color: #fff;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Ensures equal spacing between cards */
+}
+
+.card {
+  flex: 1 1 calc(33% - 20px);
+  margin: 10px 5px;
+  background-color: #333; /* Darker background for cards */
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 14px;
+  color: #ccc; /* Lighter text color */
+  margin-bottom: 15px;
+}
+
+a {
+  display: inline-block;
+  color: #007bff; /* Blue color for links */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
