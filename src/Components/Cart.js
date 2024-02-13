@@ -51,7 +51,9 @@ const Cart = () => {
         getcartdata()
     }
 
-
+    const redirectToLink = () => {
+        window.location.href = 'https://buy.stripe.com/test_dR68yKf432WF9Q4eUV'; 
+      };
 
     return (
         <div>
@@ -69,7 +71,7 @@ const Cart = () => {
                             />
                         ))}
                         <div className='proceed'>
-                            <button>Proceed</button>
+                            <button onClick={redirectToLink}>Proceed</button>
                         </div>
                     </div>
 

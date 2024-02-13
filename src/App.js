@@ -18,6 +18,9 @@ import Allcourses from './Components/Allcourses';
 import Popular from './Components/Popular';
 import Trending from './Components/Trending';
 import Shop from './Components/Shop';
+import Blogs from './Components/Blog';
+import OurTrainers from './Components/OurTrainers';
+import NewBanner from './Components/NewBanner';
 function App() {
 
   return (
@@ -30,11 +33,14 @@ function App() {
         <Route exact path="/userprofile" element={<UserProfile />} />
         <Route exact path="/sellproduct" element={<Addproduct />} />
         <Route exact path="/about" element={<About />} />
+        <Route exact path="/blogs" element={<Blogs />} />
         <Route exact path="/contactus" element={<ContactUs />} />
+        <Route exact path="/ourtrainers" element={<OurTrainers />} />
         <Route exact path="/product-type/allcourses" element={<Allcourses/>} />
         <Route exact path="/product-type/popular" element={<Popular/>} />
         <Route exact path="/product-type/trending" element={<Trending/>} />
         <Route exact path="/product-type/shop" element={<Shop/>} />
+        
         {/* <Route exact path="/product-type/allcourses" element={<Allproductpage type={'All Courses'} />} />
         <Route exact path="/product-type/laptop" element={<Allproductpage type={' Most Popular'} />} />
         <Route exact path="/product-type/camera" element={<Allproductpage type={'Trending Now'} />} />
